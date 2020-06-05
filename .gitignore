@@ -2,3 +2,6 @@ Course\ Files/
 
 # Model Selection Folder contains pre-built templates for quickly testing different models on data and evaulate performance
 Model\ Selection/
+
+# Image Dataset for Convolution Neural Network
+Deep\ Learning/Convolution\ Neural\ Networks/Data/
